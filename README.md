@@ -42,7 +42,7 @@ The circuit is tested on the following 4 input combinations:
 
 ## Files
 
-- `Perceptrons-as-Boolean-Functions.py` — Contains the implementation of the perceptron and the logic circuit.
+- `Perceptrons as Boolean Functions.py` — Contains the implementation of the perceptron and the logic circuit.
 - `README.md` — Project description and documentation.
 
 ## Requirements
